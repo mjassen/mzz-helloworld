@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: mzz-helloworld
+Description: A hello world plugin for WordPress
 License: GPLv2
 */
 
